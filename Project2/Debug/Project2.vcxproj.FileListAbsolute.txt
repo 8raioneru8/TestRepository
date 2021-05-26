@@ -1,4 +1,0 @@
-E:\Project2\Project2\Debug\Project2.exe
-E:\Project2\Project2\Debug\Project2.pdb
-C:\Users\shouj\Desktop\Project2\Project2\Debug\Project2.exe
-C:\Users\shouj\Desktop\Project2\Project2\Debug\Project2.pdb
