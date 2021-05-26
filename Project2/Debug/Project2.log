@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\shouj\Desktop\Project2\Project2\main.cpp(570,12): warning C4305: 'return': 'int' から 'bool' へ切り詰めます。
+  Project2.vcxproj -> C:\Users\shouj\Desktop\Project2\Project2\Debug\Project2.exe
